@@ -1,6 +1,7 @@
 # This code is referent to the sequence of notebooks of the click library in python. The specific notebook is click_library_python.ipynb.
+# In this script is used sys.argv
 
-# import libratys
+# import librarys
 import json
 import os
 import sys

@@ -1,4 +1,5 @@
-# This code is referent to the sequence of notebooks of the click library in python. The specific notebook is click_library_python.ipynb.
+# This code is referent to the sequence of notebooks of the click library in python. The specific notebook is click_library_python.ipynb. 
+# In this scrip is used click
 
 # import libratys
 import json

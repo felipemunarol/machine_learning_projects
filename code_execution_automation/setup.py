@@ -12,5 +12,3 @@ setup(
     author_email="felipemunarolima@gmail.com",
     packages=find_packages()
 )
-
-
