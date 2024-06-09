@@ -1,0 +1,16 @@
+
+Presolving model
+1000 rows, 1002 cols, 3000 nonzeros
+1000 rows, 1002 cols, 3000 nonzeros
+Presolve : Reductions: rows 1000(-0); columns 1002(-500); elements 3000(-0)
+Solving the presolved LP
+Using EKK dual simplex solver - serial
+  Iteration        Objective     Infeasibilities num(sum)
+          0     0.0000000000e+00 Pr: 500(21460.7); Du: 0(1.76649e-11) 0s
+        511     4.2495258513e+02 Pr: 0(0) 0s
+Solving the original LP from the solution after postsolve
+Model   status      : Optimal
+Simplex   iterations: 511
+Objective value     :  4.2495258513e+02
+HiGHS run time      :          0.10
+WARNING: Method Highs_getSimplexIterationCount is deprecated: alternative method is Highs_getIntInfoValue
